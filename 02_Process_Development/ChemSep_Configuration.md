@@ -27,3 +27,19 @@ Figure 4. Extractive distillation column configuration.
 </p>
 
 Figure 5. Solvent recovery column configuration.
+
+---
+
+## Solvent Stream Configuration
+
+<img src="./images/solvent_stream.png" alt="Solvent Stream Specifications" width="100%%" />
+
+Figure 6. Input specifications for the solvent stream.
+
+---
+
+## Feed Stream Configuration
+
+<img src="./images/feed_stream.png" alt="Feed Stream Specifications" width="100%%" />
+
+Figure 7. Input specifications for the hydrous ethanol feed stream.

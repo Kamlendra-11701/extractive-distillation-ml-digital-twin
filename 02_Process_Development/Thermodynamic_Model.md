@@ -13,6 +13,6 @@ The selection of an accurate thermodynamic property package is critical for mode
 
 ## Model Selection Reference
 
-<img src="./images/thermo_assumptions.png" alt="Property Package Configurations" width="100%%" />
+<img src="../.assets/thermo_assumptions.png" alt="Property Package Configurations" width="100%%" />
 
 *Figure 4. Thermodynamic model configuration and phase behavior parameters.*
